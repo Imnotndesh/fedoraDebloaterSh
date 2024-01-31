@@ -1,5 +1,6 @@
 # Fedora debloater
-- A little script to remove the stock gnome apps found on your fresh fedora install
+- A little script to remove the stock gnome apps found on your fresh fedora install<br>
+
 ![Kid thumbs up](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHl1OTh4dzdrOGc3OTE4cDA1cTVhbmlkc2RmcHFwdjFkeHo3MDh5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XreQmk7ETCak0/giphy.gif)
 # Perks
 - [x] Easy modification to suit what packages you want to get rid of
